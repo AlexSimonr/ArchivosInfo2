@@ -44,7 +44,7 @@
 	</script>
 </head>
 <body>
-	<h1 class="title title-success"> VN BOOK</h1>
+	<h1 class="title title-success"> VIDA NUEVA BOOK</h1>
 	<div class="container">
 
 	  <div class="row">
